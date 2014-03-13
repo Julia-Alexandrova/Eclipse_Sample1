@@ -37,7 +37,7 @@ public void failingtestSumma() {
     System.out.println("3");
     
        assertEquals("Result", 17, tester.summa(12, 5));
-//dddddd
+
 }
 
 @Ignore @Test  public void testDifference() {
