@@ -9,7 +9,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
-//vvvvvkkkkkk
+
 
 public class TestClassForMath {
       public void testMultiply() {
@@ -28,7 +28,7 @@ public class TestClassForMath {
             System.err.print("hello again");
                assertEquals("Result", 30, tester.multiply2(6, 5));
        }
-////t
+////test
 
 
 public void failingtestSumma() {
