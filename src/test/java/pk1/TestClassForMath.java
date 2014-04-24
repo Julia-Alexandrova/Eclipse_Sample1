@@ -28,7 +28,7 @@ public class TestClassForMath {
             System.err.print("hello again");
                assertEquals("Result", 30, tester.multiply2(6, 5));
        }
-////testtest
+////test2
 
 
 public void failingtestSumma() {
@@ -51,7 +51,7 @@ public void failingtestSumma() {
 
 
 @Ignore @Test public void testDifference2() {
-//sdfsfdfsdfdfsdf
+
 	//sdfsdfsdfsdfsdf
 	//dfkdkfjskfjsldkfjslkdjflskjflksdjfsf
     ClassForMath tester = new ClassForMath();
